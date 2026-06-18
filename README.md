@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="SondageMaster">
+  <img src="assets/banner.png" alt="SondageMaster" width="680">
 </p>
 
 <p align="center">
